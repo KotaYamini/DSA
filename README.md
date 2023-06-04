@@ -23,3 +23,5 @@ Subarray-1:
 - print the SubArray sum
 ![image](https://github.com/KotaYamini/DSA/assets/48117959/801bec38-0d5e-4de6-ad2c-639349f72222)
 
+- print the subArray sum if the starting index given as 3
+![image](https://github.com/KotaYamini/DSA/assets/48117959/a681e70e-2fc3-488e-8655-b217ca91f51c)
