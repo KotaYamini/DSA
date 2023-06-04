@@ -24,8 +24,8 @@ public class subArraySum {
             }
         }
 
-        prefixSumSubArray(arr);
-
+      //  prefixSumSubArray(arr);
+        carryForwardSumOfAllSubArrays(arr);
     }
 
     public static  void prefixSumSubArray(int[] arr){ // TC:O(N+N^2) SC:O(1)
@@ -49,4 +49,18 @@ public class subArraySum {
             }
         }
     }
+
+    // Using carry Forward approach for all  subArrays
+    public static void carryForwardSumOfAllSubArrays(int[] arr){ // TC:O(N^2) SC:O(1)
+        int N =arr.length;
+        for(int start= 0;start<N; start++){
+            int sum= 0;
+            for(int end =start; end<N; end++){
+                sum = sum + arr[end];
+                System.out.println(sum);
+            }
+        }
+    }
 }
+
+
