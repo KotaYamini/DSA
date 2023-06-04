@@ -17,6 +17,9 @@ Prefix Sum:
 
 Subarray-1:
 ------------
+- print all SubArrays in new line 
 ![image](https://github.com/KotaYamini/DSA/assets/48117959/faf84f9f-cd59-49b2-867e-6e7cbfb10cfa)
 
+- print the SubArray sum
+![image](https://github.com/KotaYamini/DSA/assets/48117959/801bec38-0d5e-4de6-ad2c-639349f72222)
 
