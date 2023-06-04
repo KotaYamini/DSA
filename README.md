@@ -32,4 +32,8 @@ Subarray-1:
 - Min SubArray Sum
 ![image](https://github.com/KotaYamini/DSA/assets/48117959/06e907b8-4b32-4312-a386-cd123c582299)
 
+-SubArraySums which are Even
+![image](https://github.com/KotaYamini/DSA/assets/48117959/2353e3ad-d7e0-4c4e-a3f7-18e7dd71728f)
+
+
 
