@@ -2,7 +2,7 @@
  * Given an arr[N] elements, return sum of all subarray's sum.
  * */
 
-public class sumOfallSubArraySums {
+public class sumOfallSubArraySums { // TC: O(N^2) SC:O(1)
 
     public static void main(String[] args) {
         int[] arr = {3,6,8,9,4,5,6,7};
