@@ -38,6 +38,8 @@ Subarray-1:
 -SubArraySums which are Odd
 ![image](https://github.com/KotaYamini/DSA/assets/48117959/dbfa405b-abaa-4513-828a-3f93faa37abc)
 
+-SubArraySums which are Even length with sum>=B
+![image](https://github.com/KotaYamini/DSA/assets/48117959/05319062-d13b-42ed-9f66-ceecbce62cf4)
 
 
 
