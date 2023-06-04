@@ -50,4 +50,8 @@ SubArrays - 2:
 - contribution technique
 ![image](https://github.com/KotaYamini/DSA/assets/48117959/8a761bb4-7871-4db9-875e-81368c46af6f)
 
+-Sliding Window Technique:
+![image](https://github.com/KotaYamini/DSA/assets/48117959/4ecd72f8-4ed6-4546-884c-a0d2f5d425fd)
+
+
 
