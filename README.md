@@ -15,7 +15,7 @@ Prefix Sum:
 
 
 
-Subarray-1:
+Subarrays-1:
 ------------
 - print all SubArrays in new line 
 ![image](https://github.com/KotaYamini/DSA/assets/48117959/faf84f9f-cd59-49b2-867e-6e7cbfb10cfa)
@@ -41,5 +41,10 @@ Subarray-1:
 -SubArraySums which are Even length with sum>=B
 ![image](https://github.com/KotaYamini/DSA/assets/48117959/05319062-d13b-42ed-9f66-ceecbce62cf4)
 
+
+SubArrays - 2:
+--------------
+-sum of all subarray's sum
+![image](https://github.com/KotaYamini/DSA/assets/48117959/806bd988-ca51-4e1a-b0b8-617ca9fed9be)
 
 
