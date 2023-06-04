@@ -1,6 +1,6 @@
 public class contributionTechique {
     public static void main(String[] args) { // TC:O(N) SC:O(1)
-        int[] arr= {4,7,2,3,9,8,1,7,6};
+        int[] arr= {2,8,-1,4};
         int N = arr.length;
         long total = 0;
         for(int i=0; i<N; i++){
