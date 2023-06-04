@@ -47,4 +47,7 @@ SubArrays - 2:
 -sum of all subarray's sum
 ![image](https://github.com/KotaYamini/DSA/assets/48117959/806bd988-ca51-4e1a-b0b8-617ca9fed9be)
 
+- contribution technique
+![image](https://github.com/KotaYamini/DSA/assets/48117959/8a761bb4-7871-4db9-875e-81368c46af6f)
+
 
