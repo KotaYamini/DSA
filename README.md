@@ -25,3 +25,11 @@ Subarray-1:
 
 - print the subArray sum if the starting index given as 3
 ![image](https://github.com/KotaYamini/DSA/assets/48117959/a681e70e-2fc3-488e-8655-b217ca91f51c)
+
+- Max SubArray Sum
+![image](https://github.com/KotaYamini/DSA/assets/48117959/f6af87cd-4727-44c2-9169-cb518ab466a3)
+
+- Min SubArray Sum
+![image](https://github.com/KotaYamini/DSA/assets/48117959/06e907b8-4b32-4312-a386-cd123c582299)
+
+
