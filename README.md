@@ -35,5 +35,9 @@ Subarray-1:
 -SubArraySums which are Even
 ![image](https://github.com/KotaYamini/DSA/assets/48117959/2353e3ad-d7e0-4c4e-a3f7-18e7dd71728f)
 
+-SubArraySums which are Odd
+![image](https://github.com/KotaYamini/DSA/assets/48117959/dbfa405b-abaa-4513-828a-3f93faa37abc)
+
+
 
 
