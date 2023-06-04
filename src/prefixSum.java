@@ -13,8 +13,6 @@ public class prefixSum { // TC: O(N+Q) SC: O(N)
         int ar[] = {-3,6,2,4,5,2,8,-9,3,1};
         int[][] B= {{4,8},{3,7},{1,3},{7,7},{3,6},{0,4}};
         RangeSum(ar, B);
-
-        System.out.println();
     }
 
     static void RangeSum(int ar[], int mat[][]){
