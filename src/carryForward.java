@@ -11,7 +11,7 @@
 public class carryForward {
     public static void main(String[] args) {
 
-        // Brute Force Approach
+        // Brute Force Approach TC: O(N^2) SC: O(1)
         String  str = "aegaeggaaga";
         char ch[] = str.toCharArray();
         int N = ch.length;
@@ -24,5 +24,17 @@ public class carryForward {
             }
         }
         System.out.println(count);
+
+        // Optimization Tchnique TC: O(N) SC: O(1)
+        int countOfg = 0;
+        int pairCount = 0;
+        for(int i=N-1; i>=0; i--){
+            if(ch[i] == 'g'){
+                countOfg = countOfg + 1;
+            }else if(ch[i] == 'a'){
+                pairCount = pairCount + countOfg;
+            }
+        }
+        System.out.println(pairCount);
     }
 }
