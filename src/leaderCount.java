@@ -9,13 +9,13 @@
  *  */
 
 
-public class leaderCount {
+public class leaderCount { // TC: O(N) SC: O(1)
     public static void main(String[] args) {
         int[] arr = {4,3,2,9,7,10};
         int N = arr.length;
-        // since arr[0] is treated as leader , then leadercount should be taken as 1
+        // since arr[0] is treated as leader , then leader count should be taken as 1
         int max = arr[0]; int leader = 1;
-        // as arr[0] is already taken into consideeration , i will starts with 1
+        // as arr[0] is already taken into consideration , i will starts with 1
         for(int i=1; i<N; i++){
             if(arr[i] > max){
                 leader = leader + 1;
